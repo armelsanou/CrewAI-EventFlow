@@ -1,4 +1,4 @@
-# CrewAI-EventFlow
+# CrewAI-EventFlow + Monitoring with AgentOps
 Since this script manages workflows with or_, and_, and event listeners, this name highlights its event-driven workflow system.
 
 This code implements a CrewAI-based workflow system that orchestrates intelligent agents using event-based logic. It integrates AgentOps for monitoring agents and manages workflow logic using or_, and_, and event listeners.
