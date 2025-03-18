@@ -6,8 +6,12 @@ This code implements a CrewAI-based workflow system that orchestrates intelligen
 ## 🛠️ Dependencies
 Ensure you have Python installed along with the required libraries:
 
+#### Caution : CrewAI requires Python >=3.10 and <3.13
+
+pip install crewai langchain_ollama python-dotenv crewai-tools agentops 
 
 pip install crewai crewai'tools' litellm python-dotenv
+
 ⚙️ Configuration
 Before running the script, set up your AgentOps API key in a .env file:
 
